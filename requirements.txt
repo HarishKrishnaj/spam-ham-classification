@@ -1,0 +1,6 @@
+stremlit
+nltk
+scikit-Learn==1.6.1
+joblib
+pandas
+numpy
